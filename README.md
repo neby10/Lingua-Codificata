@@ -11,3 +11,5 @@ JavaScript
 Web Tools:
 Hugo
 
+Ideas Archive:
+
