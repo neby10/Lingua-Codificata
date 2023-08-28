@@ -1,15 +1,19 @@
 # Lingua-Codificata
- Coded Language | Repo for all my documentation on learning programming languages
 
+## Meaning
 
-Programming Languages:
-Python
-C/C++
-JavaScript
+Lingua Codificata is latin for 'Coded Language'. I really like latin.
 
+## Purpose
 
-Web Tools:
-Hugo
+The purpose of this repo is to provide a reference for my favorite tools. All developers know that not using a tool for a  while brings about some rustiness with that respective tool. For me and anyone else reading this, this repo is meant to be used as a reference or cheatsheet for various programming tools. 
 
-Ideas Archive:
-
+## Repo Folders
+- C++
+- Database
+- Deployment
+- JavaScript
+- Links
+- Miscellaneous
+- Python
+- Web
