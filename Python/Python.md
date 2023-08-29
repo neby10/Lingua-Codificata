@@ -1,4 +1,4 @@
-# My Python Notes
+# Python
 
 ## About Python:
 - General Purpose
