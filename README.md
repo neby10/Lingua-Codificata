@@ -17,3 +17,8 @@ The purpose of this repo is to provide a reference for my favorite tools. All de
 - Miscellaneous
 - Python
 - Web
+
+
+## Quotes
+- It is imperative to know the features of the products you use.
+- We can best act on new hypothesis if we know the original hypothesis.
